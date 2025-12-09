@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Dto\" />
     <Folder Include="Service\" />
     <Folder Include="Repository\" />
     <Folder Include="Entity\" />
